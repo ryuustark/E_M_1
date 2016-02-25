@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: e2cbcde6bbbc4d1439a215512a9531da
+timeCreated: 1455772402
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Steve_Bomb:Bomba:pCube1
+    100004: Steve_Bomb:steve:Back
+    100006: Steve_Bomb:steve:Body
+    100008: Steve_Bomb:steve:Body_Parts
+    100010: Steve_Bomb:steve:Bones
+    100012: Steve_Bomb:steve:Booleano
+    100014: Steve_Bomb:steve:Eyebrows
+    100016: Steve_Bomb:steve:Eyes
+    100018: Steve_Bomb:steve:Head
+    100020: Steve_Bomb:steve:Head_2
+    100022: Steve_Bomb:steve:Left_Arm
+    100024: Steve_Bomb:steve:Left_Arm_2
+    100026: Steve_Bomb:steve:Left_Elbow
+    100028: Steve_Bomb:steve:Left_Foot
+    100030: Steve_Bomb:steve:Left_Hand
+    100032: Steve_Bomb:steve:Left_Knee
+    100034: Steve_Bomb:steve:Left_Leg
+    100036: Steve_Bomb:steve:Left_Leg_2
+    100038: Steve_Bomb:steve:Neck
+    100040: Steve_Bomb:steve:Neck_2
+    100042: Steve_Bomb:steve:Pupils
+    100044: Steve_Bomb:steve:Right_Arm
+    100046: Steve_Bomb:steve:Right_Arm_2
+    100048: Steve_Bomb:steve:Right_Elbow
+    100050: Steve_Bomb:steve:Right_Foot
+    100052: Steve_Bomb:steve:Right_Hand
+    100054: Steve_Bomb:steve:Right_Knee
+    100056: Steve_Bomb:steve:Right_Leg
+    100058: Steve_Bomb:steve:Right_Leg_2
+    100060: Steve_Bomb:steve:Second_Layer
+    100062: Steve_Bomb:steve:Steve_Rig
+    100064: Steve_Bomb:steve:Teeth
+    100066: Steve_Bomb:steve:Top_Back
+    100068: Steve_Bomb:steve:Waist
+    400000: //RootNode
+    400002: Steve_Bomb:Bomba:pCube1
+    400004: Steve_Bomb:steve:Back
+    400006: Steve_Bomb:steve:Body
+    400008: Steve_Bomb:steve:Body_Parts
+    400010: Steve_Bomb:steve:Bones
+    400012: Steve_Bomb:steve:Booleano
+    400014: Steve_Bomb:steve:Eyebrows
+    400016: Steve_Bomb:steve:Eyes
+    400018: Steve_Bomb:steve:Head
+    400020: Steve_Bomb:steve:Head_2
+    400022: Steve_Bomb:steve:Left_Arm
+    400024: Steve_Bomb:steve:Left_Arm_2
+    400026: Steve_Bomb:steve:Left_Elbow
+    400028: Steve_Bomb:steve:Left_Foot
+    400030: Steve_Bomb:steve:Left_Hand
+    400032: Steve_Bomb:steve:Left_Knee
+    400034: Steve_Bomb:steve:Left_Leg
+    400036: Steve_Bomb:steve:Left_Leg_2
+    400038: Steve_Bomb:steve:Neck
+    400040: Steve_Bomb:steve:Neck_2
+    400042: Steve_Bomb:steve:Pupils
+    400044: Steve_Bomb:steve:Right_Arm
+    400046: Steve_Bomb:steve:Right_Arm_2
+    400048: Steve_Bomb:steve:Right_Elbow
+    400050: Steve_Bomb:steve:Right_Foot
+    400052: Steve_Bomb:steve:Right_Hand
+    400054: Steve_Bomb:steve:Right_Knee
+    400056: Steve_Bomb:steve:Right_Leg
+    400058: Steve_Bomb:steve:Right_Leg_2
+    400060: Steve_Bomb:steve:Second_Layer
+    400062: Steve_Bomb:steve:Steve_Rig
+    400064: Steve_Bomb:steve:Teeth
+    400066: Steve_Bomb:steve:Top_Back
+    400068: Steve_Bomb:steve:Waist
+    2300000: Steve_Bomb:Bomba:pCube1
+    3300000: Steve_Bomb:Bomba:pCube1
+    4300000: Steve_Bomb:steve:Second_Layer
+    4300002: Steve_Bomb:steve:Right_Arm_2
+    4300004: Steve_Bomb:steve:Left_Arm_2
+    4300006: Steve_Bomb:steve:Body
+    4300008: Steve_Bomb:steve:Right_Leg_2
+    4300010: Steve_Bomb:steve:Left_Leg_2
+    4300012: Steve_Bomb:Bomba:pCube1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Steve_Bomb:steve:Body
+    13700002: Steve_Bomb:steve:Left_Arm_2
+    13700004: Steve_Bomb:steve:Left_Leg_2
+    13700006: Steve_Bomb:steve:Right_Arm_2
+    13700008: Steve_Bomb:steve:Right_Leg_2
+    13700010: Steve_Bomb:steve:Second_Layer
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Steve_Bomb:Bomba:pCube1
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts/Steve_Bomb:steve:Body
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts/Steve_Bomb:steve:Head_2
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts/Steve_Bomb:steve:Head_2/Steve_Bomb:steve:Booleano
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts/Steve_Bomb:steve:Head_2/Steve_Bomb:steve:Eyebrows
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts/Steve_Bomb:steve:Head_2/Steve_Bomb:steve:Eyes
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts/Steve_Bomb:steve:Head_2/Steve_Bomb:steve:Pupils
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts/Steve_Bomb:steve:Head_2/Steve_Bomb:steve:Teeth
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts/Steve_Bomb:steve:Left_Arm_2
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts/Steve_Bomb:steve:Left_Leg_2
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts/Steve_Bomb:steve:Right_Arm_2
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts/Steve_Bomb:steve:Right_Leg_2
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Body_Parts/Steve_Bomb:steve:Second_Layer
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Back
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Back/Steve_Bomb:steve:Top_Back
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Back/Steve_Bomb:steve:Top_Back/Steve_Bomb:steve:Left_Arm
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Back/Steve_Bomb:steve:Top_Back/Steve_Bomb:steve:Left_Arm/Steve_Bomb:steve:Left_Elbow
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Back/Steve_Bomb:steve:Top_Back/Steve_Bomb:steve:Left_Arm/Steve_Bomb:steve:Left_Elbow/Steve_Bomb:steve:Left_Hand
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Back/Steve_Bomb:steve:Top_Back/Steve_Bomb:steve:Neck
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Back/Steve_Bomb:steve:Top_Back/Steve_Bomb:steve:Neck/Steve_Bomb:steve:Neck_2
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Back/Steve_Bomb:steve:Top_Back/Steve_Bomb:steve:Neck/Steve_Bomb:steve:Neck_2/Steve_Bomb:steve:Head
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Back/Steve_Bomb:steve:Top_Back/Steve_Bomb:steve:Right_Arm
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Back/Steve_Bomb:steve:Top_Back/Steve_Bomb:steve:Right_Arm/Steve_Bomb:steve:Right_Elbow
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Back/Steve_Bomb:steve:Top_Back/Steve_Bomb:steve:Right_Arm/Steve_Bomb:steve:Right_Elbow/Steve_Bomb:steve:Right_Hand
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Left_Leg
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Left_Leg/Steve_Bomb:steve:Left_Knee
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Left_Leg/Steve_Bomb:steve:Left_Knee/Steve_Bomb:steve:Left_Foot
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Right_Leg
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Right_Leg/Steve_Bomb:steve:Right_Knee
+        weight: 1
+      - path: Steve_Bomb:steve:Steve_Rig/Steve_Bomb:steve:Bones/Steve_Bomb:steve:Waist/Steve_Bomb:steve:Right_Leg/Steve_Bomb:steve:Right_Knee/Steve_Bomb:steve:Right_Foot
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

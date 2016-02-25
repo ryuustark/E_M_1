@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 75d9d59d9425b30429a0671ed58b09cf
+timeCreated: 1455772855
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Steve_Bomb:steve:Back
+    100004: Steve_Bomb:steve:Body
+    100006: Steve_Bomb:steve:Body_Parts
+    100008: Steve_Bomb:steve:Bones
+    100010: Steve_Bomb:steve:Booleano
+    100012: Steve_Bomb:steve:Eyebrows
+    100014: Steve_Bomb:steve:Eyes
+    100016: Steve_Bomb:steve:Head
+    100018: Steve_Bomb:steve:Head_2
+    100020: Steve_Bomb:steve:Left_Arm
+    100022: Steve_Bomb:steve:Left_Arm_2
+    100024: Steve_Bomb:steve:Left_Elbow
+    100026: Steve_Bomb:steve:Left_Foot
+    100028: Steve_Bomb:steve:Left_Hand
+    100030: Steve_Bomb:steve:Left_Knee
+    100032: Steve_Bomb:steve:Left_Leg
+    100034: Steve_Bomb:steve:Left_Leg_2
+    100036: Steve_Bomb:steve:Neck
+    100038: Steve_Bomb:steve:Neck_2
+    100040: Steve_Bomb:steve:Pupils
+    100042: Steve_Bomb:steve:Right_Arm
+    100044: Steve_Bomb:steve:Right_Arm_2
+    100046: Steve_Bomb:steve:Right_Elbow
+    100048: Steve_Bomb:steve:Right_Foot
+    100050: Steve_Bomb:steve:Right_Hand
+    100052: Steve_Bomb:steve:Right_Knee
+    100054: Steve_Bomb:steve:Right_Leg
+    100056: Steve_Bomb:steve:Right_Leg_2
+    100058: Steve_Bomb:steve:Second_Layer
+    100060: Steve_Bomb:steve:Teeth
+    100062: Steve_Bomb:steve:Top_Back
+    100064: Steve_Bomb:steve:Waist
+    400000: //RootNode
+    400002: Steve_Bomb:steve:Back
+    400004: Steve_Bomb:steve:Body
+    400006: Steve_Bomb:steve:Body_Parts
+    400008: Steve_Bomb:steve:Bones
+    400010: Steve_Bomb:steve:Booleano
+    400012: Steve_Bomb:steve:Eyebrows
+    400014: Steve_Bomb:steve:Eyes
+    400016: Steve_Bomb:steve:Head
+    400018: Steve_Bomb:steve:Head_2
+    400020: Steve_Bomb:steve:Left_Arm
+    400022: Steve_Bomb:steve:Left_Arm_2
+    400024: Steve_Bomb:steve:Left_Elbow
+    400026: Steve_Bomb:steve:Left_Foot
+    400028: Steve_Bomb:steve:Left_Hand
+    400030: Steve_Bomb:steve:Left_Knee
+    400032: Steve_Bomb:steve:Left_Leg
+    400034: Steve_Bomb:steve:Left_Leg_2
+    400036: Steve_Bomb:steve:Neck
+    400038: Steve_Bomb:steve:Neck_2
+    400040: Steve_Bomb:steve:Pupils
+    400042: Steve_Bomb:steve:Right_Arm
+    400044: Steve_Bomb:steve:Right_Arm_2
+    400046: Steve_Bomb:steve:Right_Elbow
+    400048: Steve_Bomb:steve:Right_Foot
+    400050: Steve_Bomb:steve:Right_Hand
+    400052: Steve_Bomb:steve:Right_Knee
+    400054: Steve_Bomb:steve:Right_Leg
+    400056: Steve_Bomb:steve:Right_Leg_2
+    400058: Steve_Bomb:steve:Second_Layer
+    400060: Steve_Bomb:steve:Teeth
+    400062: Steve_Bomb:steve:Top_Back
+    400064: Steve_Bomb:steve:Waist
+    4300000: Steve_Bomb:steve:Second_Layer
+    4300002: Steve_Bomb:steve:Right_Arm_2
+    4300004: Steve_Bomb:steve:Left_Arm_2
+    4300006: Steve_Bomb:steve:Body
+    4300008: Steve_Bomb:steve:Right_Leg_2
+    4300010: Steve_Bomb:steve:Left_Leg_2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Steve_Bomb:steve:Body
+    13700002: Steve_Bomb:steve:Left_Arm_2
+    13700004: Steve_Bomb:steve:Left_Leg_2
+    13700006: Steve_Bomb:steve:Right_Arm_2
+    13700008: Steve_Bomb:steve:Right_Leg_2
+    13700010: Steve_Bomb:steve:Second_Layer
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
